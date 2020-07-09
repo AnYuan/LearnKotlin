@@ -29,5 +29,27 @@
  */
 
 fun main() {
+    // Comparison Operators
+    val yes = true
+    val no = false
 
+    // Boolean operators
+    val doesOneEqualTwo = (1 == 2)
+    val doesOneNotEqualTwo = (1 != 2)
+    val alsoTrue = !(1 == 2)
+    val isOneGreaterThanTwo = (1 > 2)
+    val isOneLessThanTwo = (1 < 2)
+
+    // string equality
+    val guess = "dog"
+    val dogEqualsCat = guess == "cat"
+    println(dogEqualsCat)
+
+    val order = "cat" < "dog"
+    println(order)
+
+    // The if expression
+    if (2 > 1) {
+        println("Yes, 2 is greater than 1.")
+    }
 }
