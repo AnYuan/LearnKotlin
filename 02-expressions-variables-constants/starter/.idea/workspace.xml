@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f198db3-45db-42a2-9b3a-94302fd10325" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="199" />
+  </component>
+  <component name="ProjectId" id="1eROCbIxRUsTV7jjhutgyzKJU3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Expressions_variables_constantsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="starter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Expressions_variables_constantsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Expressions_variables_constantsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f198db3-45db-42a2-9b3a-94302fd10325" name="Default Changelist" comment="" />
+      <created>1594280811241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594280811241</updated>
+      <workItem from="1594280812546" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1743" y="242" key="#Project_Structure" timestamp="1594280832705">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1743" y="242" key="#Project_Structure/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594280832705" />
+    <state width="1532" height="475" key="GridCell.Tab.0.bottom" timestamp="1594281656925">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.0.bottom/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656925" />
+    <state width="1532" height="475" key="GridCell.Tab.0.center" timestamp="1594281656925">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.0.center/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656925" />
+    <state width="1532" height="475" key="GridCell.Tab.0.left" timestamp="1594281656924">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.0.left/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656924" />
+    <state width="1532" height="475" key="GridCell.Tab.0.right" timestamp="1594281656925">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.0.right/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656925" />
+    <state width="1532" height="475" key="GridCell.Tab.1.bottom" timestamp="1594281656927">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.1.bottom/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656927" />
+    <state width="1532" height="475" key="GridCell.Tab.1.center" timestamp="1594281656926">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.1.center/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656926" />
+    <state width="1532" height="475" key="GridCell.Tab.1.left" timestamp="1594281656926">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.1.left/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656926" />
+    <state width="1532" height="475" key="GridCell.Tab.1.right" timestamp="1594281656926">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="1532" height="475" key="GridCell.Tab.1.right/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594281656926" />
+    <state x="1720" y="306" width="845" height="538" key="find.popup" timestamp="1594280874397">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1720" y="306" width="845" height="538" key="find.popup/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594280874397" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/starter$Expressions_variables_constantsKt.ic" NAME="Expressions_variables_constantsKt Coverage Results" MODIFIED="1594280899274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

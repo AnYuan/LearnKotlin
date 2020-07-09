@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94786d2-f666-4064-9421-3e4eebaa3d8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eRO07MDSiO2H6ePFaIeTIpItGn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="02-expressions-variables-constants" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94786d2-f666-4064-9421-3e4eebaa3d8e" name="Default Changelist" comment="" />
+      <created>1594280713123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594280713123</updated>
+      <workItem from="1594280716881" duration="77000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1607" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594280791710">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1607" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594280791710" />
+    <state x="1824" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1594280717024">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1824" y="552" key="com.intellij.ide.util.TipDialog/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594280717024" />
+    <state x="1808" y="267" key="run.anything.popup" timestamp="1594280787549">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1808" y="267" key="run.anything.popup/-2560.210.2560.1417/0.23.3008.1669/3008.273.1680.1027@0.23.3008.1669" timestamp="1594280787549" />
+  </component>
+</project>
