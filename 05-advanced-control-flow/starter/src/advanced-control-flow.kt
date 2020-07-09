@@ -29,5 +29,29 @@
  */
 
 fun main() {
+    // closed range
+    val closedRange = 0..5
+    val halfOpenRange = 0 until 5
+    val decreasingRange = 5 downTo 0
+
+    val count = 10
+    var sum = 0
+    for (i in 1..count) {
+        // [1, 10]
+        sum += i
+    }
+    println(sum)
+
+    repeat(10) {
+        println(it)
+    }
+
+    // when expressions
+    val number = 10
+    when(number) {
+        0 -> println("Zero")
+        else -> println("Non-Zero")
+    }
+
 
 }
