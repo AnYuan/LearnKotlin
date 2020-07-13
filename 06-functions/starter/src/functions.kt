@@ -29,5 +29,66 @@
  */
 
 fun main() {
+    printMultipleOfFive(10)
 
+    printMultipleOf1(4)
 }
+
+fun printMultipleOfFive(value: Int) {
+    println("$value * 5 = ${value * 5}")
+}
+
+// muti-param
+fun printMultipleOf(multiplier: Int, andValue: Int) {
+    println("$multiplier * 5 = ${multiplier * andValue}")
+}
+
+// default value
+fun printMultipleOf1(multiplier: Int, value: Int = 1) {
+    println("$value * 5 = ${value * multiplier}")
+}
+
+// return value
+fun multiply(number: Int, multiplier: Int): Int {
+    return number * multiplier
+}
+
+fun multiplyAndDivide(number: Int, factor: Int): Pair<Int, Int> {
+    return Pair(number * factor, number / factor)
+}
+
+fun multiplyInferred(number: Int, multiplier: Int) = number * multiplier
+
+// Parameters as Values
+fun incrementAndPrint(value: Int): Int {
+    val newValue = value + 1
+    println(newValue)
+    return newValue
+}
+
+// overloading
+// 1. A different number of parameters
+// 2. Different parameter types
+fun getValue(value: Int): Int {
+    return value + 1
+}
+
+fun getValue(value: String): String {
+    return "The value is $value"
+}
+
+// Functions as variables
+fun add(a: Int, b: Int): Int {
+    return a + b
+}
+
+// method reference operator, ::
+var function = ::add
+//function(2,3)
+
+fun printResult(function: (Int, Int) -> Int, a: Int, b: Int) {
+    val result = function(a, b)
+    print(result)
+}
+
+// printResult(::add, 4, 2)
