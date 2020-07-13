@@ -29,5 +29,32 @@
  */
 
 fun main() {
+    var errorCode: Int?
+    errorCode = 500
+    errorCode = null
 
+    var authorName: String? = "Joe Howard"
+    var authorAge: Int? = 24
+
+    val ageAfterBirthday = authorAge!! + 1
+    println(ageAfterBirthday)
+
+    var nonNullableAuthor: String
+    // smart casts
+    if (authorName != null) {
+        nonNullableAuthor = authorName
+    }
+
+    var nameLength = authorName?.length
+    println("Author's name has length $nameLength")
+
+    authorName?.let {
+        nonNullableAuthor = authorName
+    }
+
+    // default value
+    var nullableInt: Int? = 10
+    var mustHaveResult = nullableInt ?: 0
+
+    mustHaveResult = if (nullableInt != null) nullableInt else 0
 }
